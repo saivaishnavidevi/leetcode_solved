@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0027-remove-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/1394-find-lucky-integer-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
