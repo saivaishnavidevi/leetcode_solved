@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0283-move-zeroes) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
