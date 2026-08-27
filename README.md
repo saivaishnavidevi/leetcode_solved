@@ -56,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0412-fizz-buzz) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
