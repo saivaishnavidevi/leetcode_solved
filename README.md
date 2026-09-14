@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0410-split-array-largest-sum) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -61,9 +62,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0410-split-array-largest-sum) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0374-guess-number-higher-or-lower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
