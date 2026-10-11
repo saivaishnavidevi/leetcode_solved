@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/saivaishnavidevi/leetcode_solved/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
